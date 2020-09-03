@@ -10,7 +10,7 @@ class Header extends React.Component {
             <span className="the">The</span>
           </span>
         Day</h1>
-        <h3 className="tagline"><span>Fresh Daily</span></h3>
+        <h3 className="tagline"><span>Fresh Seafood Market</span></h3>
       </header>
     )
   }
