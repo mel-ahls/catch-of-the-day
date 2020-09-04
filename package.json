@@ -4,14 +4,7 @@
   "private": true,
   "devDependencies": {
     "concurrently": "4.1.0",
-    "react-scripts": "3.4.1",
-    "minimist": ">=1.2.3",
-    "websocket-extensions": ">=0.1.4",
-    "lodash": ">=4.17.19",
-    "elliptic": ">=6.5.3",
-    "serialize-javascript": ">=3.1.0",
-    "tree-kill": ">=1.2.2",
-    "yargs-parser": ">=13.1.2"
+    "react-scripts": "3.4.1"
   },
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
